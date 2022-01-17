@@ -1,0 +1,32 @@
+{
+  "name": "full-stack-test",
+  "version": "1.0.0",
+  "description": "full stack react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tareq990/full-stack-test.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "tareq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tareq990/full-stack-test/issues"
+  },
+  "homepage": "https://github.com/Tareq990/full-stack-test#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.2",
+    "pg": "^8.7.1",
+    "tar": "^6.1.11"
+  },
+  "devDependencies": {
+    "concurrently": "^7.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
